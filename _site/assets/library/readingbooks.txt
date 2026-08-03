@@ -503,3 +503,17 @@
 | Asako               | Yuzuki             | Hooked                                                           | Yes           | No             | M           | Main     |
 | Belle               | Burden             | Strangers                                                        | Yes           | No             | M           | Main     |
 | Edouard             | Louis              | Collapse                                                         | Yes           | No             | M           | Main     |
+|'Pemi                | Aguda              | One Leg on Earth                                                 | Yes           | No             | M           | Main     |
+| Helen               | Gardner            | This House of Grief                                              | No            | No             | M           | Main     |
+| Amor                | Towles             | A Gentelman in Moscow                                            | No            | No             | E           | Main     |
+| John                | Bradshaw           | In Defense of Dogs                                               | No            | No             | E           | Main     |
+| Ana Paula           | Maia               | On Earth As It Is Beneath                                        | No            | No             | M           | Window   |
+| Sevn                | Holm               | Termush                                                          | Yes           | No             | M           | Main     |
+| Susan               | Sontag             | Regarding the Pain of Others                                     | No            | No             | M           | Window   |
+| Claude              | Dalarue            | Waiting for War                                                  | No            | No             | M           | Window   |
+| John                | Conyngham          | The Desecration of the Graves                                    | No            | No             | M           | Window   |
+| John                | Smith              | Little Boy                                                       | No            | No             | M           | Window   |
+| Steven L            | Peck               | A Short Stay in Hell                                             | Yes           | Yes            | E           | Main     |
+| Ian                 | McEwan             | What We Can Know                                                 | Yes           | No             | M           | Main     |
+| Arthur C            | Clarke             | The City and the Stars                                           | No            | No             | E           | Main     |
+| Arkady & Boris      | Strugatsky         | Monday Starts on Saturday                                        | No            | No             | E           | Main     | 

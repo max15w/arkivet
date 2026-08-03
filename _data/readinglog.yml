@@ -26,6 +26,23 @@
   image: "/images/readinglog/ghostwallmoss.jpg"
   rating: 4.5
 
+- year: 2026
+  image: "/images/readinglog/onelegaguda.jpg"
+  rating: 4
+
+- year: 2026
+  image: "/images/readinglog/canknowmcewan.jpg"
+  rating: 3
+
+- year: 2026
+  image: "/images/readinglog/termushholm.jpeg"
+  rating: 2.5
+
+- year: 2026
+  image: "/images/readinglog/stayinhellpeck.jpg"
+  rating: 3.5
+
+
 ## 2025
 
 - year: 2025
