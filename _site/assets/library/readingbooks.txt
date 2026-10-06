@@ -509,7 +509,7 @@
 | John                | Bradshaw           | In Defense of Dogs                                               | No            | No             | E           | Main     |
 | Ana Paula           | Maia               | On Earth As It Is Beneath                                        | No            | No             | M           | Window   |
 | Sevn                | Holm               | Termush                                                          | Yes           | No             | M           | Main     |
-| Susan               | Sontag             | Regarding the Pain of Others                                     | No            | No             | M           | Window   |
+| Susan               | Sontag             | Regarding the Pain of Others                                     | Yes           | No             | M           | Window   |
 | Claude              | Dalarue            | Waiting for War                                                  | No            | No             | M           | Window   |
 | John                | Conyngham          | The Desecration of the Graves                                    | No            | No             | M           | Window   |
 | John                | Smith              | Little Boy                                                       | No            | No             | M           | Window   |
@@ -517,3 +517,5 @@
 | Ian                 | McEwan             | What We Can Know                                                 | Yes           | No             | M           | Main     |
 | Arthur C            | Clarke             | The City and the Stars                                           | No            | No             | E           | Main     |
 | Arkady & Boris      | Strugatsky         | Monday Starts on Saturday                                        | No            | No             | E           | Main     | 
+| Ben                 | Lerner             | Transcription                                                    | Yes           | No             | M           | Main     |
+| M. John             | Harrison           | The End of Everything                                            | Yes           | No             | M           | Main     |
